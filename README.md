@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center"> With over three years of experience in Frontend Development, I'm passionate about embracing new technologies and transforming creative ideas into efficient, user-focused web applications. Collaborating with dedicated teams, I consistently deliver robust and innovative solutions tailored to meet the unique needs of our audience.</h3>
+<h3 align="center"> As a software engineer with two year of experience in developing cross-platform mobile and desktop application, I have experiance in .NET technology, with a strong focus on Xamarin Forms and .Net Maui. My expertise includes designing, developing and maintaining high-quality applications, My hands-on experience with .NET, coupled with my ability to collaborate effectively with my team and colleagues, has equipped me with the skills necessary to contribute significantly to any project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashishkumar5699&label=Profile%20views&color=0e75b6&style=flat" alt="AshishKumar5699" /> </p>
 
