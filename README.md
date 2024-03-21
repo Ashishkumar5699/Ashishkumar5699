@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashishkumar5699&label=Profile%20views&color=0e75b6&style=flat" alt="AshishKumar5699" /> </p>
 
-- 🌱 I’m currently learning **React, ASP.Net, Node JS, Django**
+- 🌱 I’m currently learning **React TS, ASP.Net, Node JS, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashishkumar5699](https://github.com/Ashishkumar5699)
 
@@ -17,10 +17,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
+<p align="left">
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="Xamarin forms" width="40" height="40"/> 
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
