@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React TS, ASP.Net, Node JS, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashishkumar5699](https://github.com/Ashishkumar5699)
+- 👨‍💻 All of my projects are available at [https://github.com/Ashishkumar5699](https://github.com/Ashishkumar5699/PunjabOrnaments)
 
 - 💬 Ask me about **Xamarin Forms, .Net MAUI**
 
