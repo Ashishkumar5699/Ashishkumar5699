@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center"> As a software engineer with two year of experience in developing cross-platform mobile and desktop application, I have experiance in .NET technology, with a strong focus on Xamarin Forms and .Net Maui. My expertise includes designing, developing and maintaining high-quality applications, My hands-on experience with .NET, coupled with my ability to collaborate effectively with my team and colleagues, has equipped me with the skills necessary to contribute significantly to any project.</h3>
+<h1 align="center">Hi 👋, I'm Ashish</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashishkumar5699&label=Profile%20views&color=0e75b6&style=flat" alt="AshishKumar5699" /> </p>
 
-- 🌱 I’m currently learning **React TS, ASP.Net, Node JS, Django**
+- 🌱 I’m currently learning **React TS, Node JS, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashishkumar5699](https://github.com/Ashishkumar5699/PunjabOrnaments)
 
-- 💬 Ask me about **Xamarin Forms, .Net MAUI**
+- 💬 Ask me about **Xamarin Forms, .Net MAUI, ASP.Net**
 
 - 📫 How to reach me **ashishsarraf7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashish-kumar-032323206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushagra kuamr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-032323206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashish kuamr" height="30" width="40" /></a>
 </p>
 <h3>if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h3>
 <p>
