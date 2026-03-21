@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashishkumar5699&label=Profile%20views&color=0e75b6&style=flat" alt="AshishKumar5699" /> </p>
 
-- 🌱 I’m currently learning **React TS, Node JS, Django**
+- 🌱 I’m currently learning **NExt TS, nest JS, Django, Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashishkumar5699](https://github.com/Ashishkumar5699/PunjabOrnaments)
 
